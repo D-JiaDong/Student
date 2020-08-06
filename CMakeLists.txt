@@ -3,4 +3,4 @@ project(Student)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Student P1451_求细胞数量.cpp)
+add_executable(Student 洛谷/P1451_求细胞数量.cpp)
